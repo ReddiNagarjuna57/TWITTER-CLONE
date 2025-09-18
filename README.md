@@ -8,8 +8,6 @@
 This project is a **Twitter Clone**, built to understand the concepts of **full-stack web development**.  
 It mimics the core features of Twitter, including **posting tweets, following users, likes, and comments**.  
 
----
-
 ## 📌 Project Overview  
 
 The goal of this project is to learn and implement:  
